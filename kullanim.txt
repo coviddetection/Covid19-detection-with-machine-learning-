@@ -1,0 +1,15 @@
+covid tespit kullanim 
+1 python u kur kurarken ortam degiskenleri secenegini sec 
+2 python -m pip install "kutuphane adi" bu komutu cmd de calistir 
+kurulacak kutuphaneler 
+tensorflow 
+munpy 
+pandas
+tensor
+matploylib
+sklearn
+pillow
+3 detection.py i calisitir dosya adi gir korona tespit tusuna bas 
+
+otomatik kurulum icin 
+1 python u kur kurarken ortam degiskenleri secenegini sec  sonrasinda kurulunm dosyasini calistir 
